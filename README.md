@@ -1,7 +1,7 @@
 #Spring Boot + Docker + JAX-RS Demo Application
 
 
-<img src="http://www.adrianmilne.com/wp-content/uploads/2016/08/feature-image-template-300x150.png"/>
+<img src="http://www.adrianmilne.com/wp-content/uploads/2016/08/feature-image-template.png"/>
 
 This is an example application created to demonstrate the use of the Spring Boot and Docker.
 
