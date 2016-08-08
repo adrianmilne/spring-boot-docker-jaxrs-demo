@@ -4,8 +4,6 @@ import com.cor.service.HelloWorldService;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.stereotype.Component;
 
-import java.util.Arrays;
-
 /**
  * Created by adrianmilne on 04/08/2016.
  */
@@ -15,7 +13,6 @@ public class JerseyConfig extends ResourceConfig {
     public JerseyConfig() {
         register(HelloWorldService.class);
     }
-
 
 
 }
